@@ -5,5 +5,8 @@ Searches html file for all elements nested within <component></component> tags, 
 
 Run from within src folder. Creates 'components' folder, a folder for each component, and the component.js file.
 
-'python3 html2react.py file.html'
+Terminal command: python3 html2react.py file.html
 
+Requirements: python3, bs4, os, pathlib, sys
+
+**virtualenv requirements.txt coming soon**
