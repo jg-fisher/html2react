@@ -5,6 +5,8 @@ Searches html file for all elements nested within <component></component> tags, 
 
 ![alt text](https://image.ibb.co/fNireG/Screen_Shot_2018_01_28_at_4_53_56_PM.png)
 
+__________________________________________________________________________________
+
 ![alt text](https://image.ibb.co/myNReG/Screen_Shot_2018_01_28_at_4_54_08_PM.png)
 
 Run from within src folder. Creates 'components' folder, a folder for each component, and the component.js file.
