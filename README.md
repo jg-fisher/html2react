@@ -10,10 +10,9 @@ ________________________________________________________________________________
 
 __________________________________________________________________________________
 
-![alt text](https://image.ibb.co/myNReG/Screen_Shot_2018_01_28_at_4_54_08_PM.png)
+![alt text](https://image.ibb.co/dR54Gw/Screen_Shot_2018_01_28_at_10_26_16_PM.png)
 
 __________________________________________________________________________________
-
 
 Run from within src folder. Creates 'components' folder, a folder for each component, and the component.js file.
 
